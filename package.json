@@ -1,0 +1,18 @@
+{
+  "name": "node_jenkins",
+  "version": "1.0.0",
+  "description": "Node Jenkins",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Sood",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "supertest": "^1.2.0"
+  }
+}
